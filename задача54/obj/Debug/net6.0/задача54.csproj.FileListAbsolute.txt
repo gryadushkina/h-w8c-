@@ -1,0 +1,15 @@
+/Users/macuser/Desktop/дз8C#/задача54/bin/Debug/net6.0/задача54
+/Users/macuser/Desktop/дз8C#/задача54/bin/Debug/net6.0/задача54.deps.json
+/Users/macuser/Desktop/дз8C#/задача54/bin/Debug/net6.0/задача54.runtimeconfig.json
+/Users/macuser/Desktop/дз8C#/задача54/bin/Debug/net6.0/задача54.dll
+/Users/macuser/Desktop/дз8C#/задача54/bin/Debug/net6.0/задача54.pdb
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.csproj.AssemblyReference.cache
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.AssemblyInfoInputs.cache
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.AssemblyInfo.cs
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.csproj.CoreCompileInputs.cache
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.dll
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/refint/задача54.dll
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.pdb
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/задача54.genruntimeconfig.cache
+/Users/macuser/Desktop/дз8C#/задача54/obj/Debug/net6.0/ref/задача54.dll
